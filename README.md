@@ -1,1 +1,3 @@
-# time_series_forecasting
+# Time series forecasting
+
+This repo contains time series forecasting materals
